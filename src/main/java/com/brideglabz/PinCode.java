@@ -30,6 +30,8 @@ public class PinCode {
         checkValidPinCode(pinCode);
         pinCode = "A400088";
         checkValidPinCode(pinCode);
+        pinCode = "400088B";
+        checkValidPinCode(pinCode);
 
 
     }
